@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Mara\\Documents\\Visual Studio Code projects\\IS projects\\github-mp-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\Users\\Mara\\Documents\\Visual Studio Code projects\\IS projects\\github-mp-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Mara\\Documents\\Visual Studio Code projects\\IS projects\\github-mp-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\Users\\Mara\\Documents\\Visual Studio Code projects\\IS projects\\github-mp-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Mara\\Documents\\Visual Studio Code projects\\IS projects\\github-mp-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\Mara\\Documents\\Visual Studio Code projects\\IS projects\\github-mp-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "projectName": "program001-vypis-rady",
-        "projectPath": "c:\\Users\\Mara\\Documents\\Visual Studio Code projects\\IS projects\\github-mp-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectPath": "C:\\Users\\Mara\\Documents\\Visual Studio Code projects\\IS projects\\github-mp-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\Mara\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Mara\\Documents\\Visual Studio Code projects\\IS projects\\github-mp-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\Users\\Mara\\Documents\\Visual Studio Code projects\\IS projects\\github-mp-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mara\\AppData\\Roaming\\NuGet\\NuGet.Config"

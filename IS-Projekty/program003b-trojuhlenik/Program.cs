@@ -1,48 +1,50 @@
-﻿﻿ // chci, aby se program opakoval po stisku klávesy "a"
+﻿﻿using System;
+using System.Collections.Specialized;
+
+class Program {
+
+    static void Main() {
+
+        // opakovani po stisknuti "a"
         string again = "a";
         while(again == "a") {
             //Console.Clear();
-            Console.WriteLine("**********************");
-            Console.WriteLine("*******Obdélník*******");
-            Console.WriteLine("**********************");
-            Console.WriteLine("*******Marek Petr*****");
-            Console.WriteLine("**********************\n\n");
+            Console.WriteLine("###########################");
+            Console.WriteLine("####### Trojůhelník #######");
+            Console.WriteLine("###########################");
+            Console.WriteLine("######## Marek Petr #######");
+            Console.WriteLine("###########################\n\n");
             Console.WriteLine();
-
-            // Vstup od uživatele - lepší varianta
-            Console.Write("Zadejte šířku obrazce (celé číslo): ");
-            int width;
-            while(!int.TryParse(Console.ReadLine(), out width)) {
-                Console.Write("Nezadali jste celé číslo. Zadejte znovu šířku obrazce (celé číslo): ");
+          
+          
+           Console.Write("Zadejte šířku trojůhelníku (celé číslo): ");
+            int val;
+            while(!int.TryParse(Console.ReadLine(), out val)) {
+                Console.Write("Nezadali jste celé číslo. Zadejte znovu šířku trojůhelníku (celé číslo): ");
             }
-
-            Console.Write("Zadejte výšku obrazce (celé číslo): ");
-            int height;
-            while(!int.TryParse(Console.ReadLine(), out height)) {
-                Console.Write("Nezadali jste celé číslo. Zadejte znovu výšku obrazce (celé číslo): ");
+          
+          Console.WriteLine();
+          
+         int i, j, k ;  
+         for (i = 1; i <= val; i++)
+         {
+            for (j = 1; j <= i; j++)
+            {
+               Console.Write("");
             }
-            
-            // for(int i = 1; i <= 10; i++) {
-            //     Console.WriteLine(i);
-            // }
-
-            // int j = 1;
-            // while(j <= 10) {
-            //     Console.WriteLine(j);
-            //     j++;
-            // }
-            Console.WriteLine();
-            for(int i=1; i<= height; i++) {
-                for(int j=1; j<= width ;j++) {
-                    Console.Write("* ");
-                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
-                }
-                Console.WriteLine();
+            for (k = 1; k <= i; k++)
+            {
+               Console.Write(" #");
+               System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
             }
-            
-            Console.WriteLine();
-            
+            Console.WriteLine("");
+         }
+         
             // Opakování programu
             Console.WriteLine("Pro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
         }
+    }   
+
+
+}
