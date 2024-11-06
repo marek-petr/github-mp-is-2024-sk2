@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program003b-trojuhlenik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7299872f3e32d00243ca465a9f1334f58ddc094")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae475d43ba78dab8b31ae4c566023de57185fd71")]
 [assembly: System.Reflection.AssemblyProductAttribute("program003b-trojuhlenik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program003b-trojuhlenik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

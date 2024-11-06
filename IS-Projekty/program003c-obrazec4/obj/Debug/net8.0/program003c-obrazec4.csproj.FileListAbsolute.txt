@@ -1,0 +1,15 @@
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\bin\Debug\net8.0\program003c-obrazec4.exe
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\bin\Debug\net8.0\program003c-obrazec4.deps.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\bin\Debug\net8.0\program003c-obrazec4.runtimeconfig.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\bin\Debug\net8.0\program003c-obrazec4.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\bin\Debug\net8.0\program003c-obrazec4.pdb
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\obj\Debug\net8.0\program003c-obrazec4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\obj\Debug\net8.0\program003c-obrazec4.AssemblyInfoInputs.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\obj\Debug\net8.0\program003c-obrazec4.AssemblyInfo.cs
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\obj\Debug\net8.0\program003c-obrazec4.csproj.CoreCompileInputs.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\obj\Debug\net8.0\program003c-obrazec4.sourcelink.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\obj\Debug\net8.0\program003c-obrazec4.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\obj\Debug\net8.0\refint\program003c-obrazec4.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\obj\Debug\net8.0\program003c-obrazec4.pdb
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\obj\Debug\net8.0\program003c-obrazec4.genruntimeconfig.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program003c-obrazec4\obj\Debug\net8.0\ref\program003c-obrazec4.dll

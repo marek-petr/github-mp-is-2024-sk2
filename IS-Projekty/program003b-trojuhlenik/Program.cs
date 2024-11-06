@@ -34,7 +34,7 @@ class Program {
             }
             for (k = 1; k <= i; k++)
             {
-               Console.Write(" #");
+               Console.Write(" *");
                System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
             }
             Console.WriteLine("");
