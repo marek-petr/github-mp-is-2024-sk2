@@ -1,0 +1,15 @@
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.exe
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.deps.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.runtimeconfig.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.pdb
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.AssemblyInfoInputs.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.AssemblyInfo.cs
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.csproj.CoreCompileInputs.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.sourcelink.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\obj\Debug\net8.0\refint\program005-max-min.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.pdb
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.genruntimeconfig.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program005-max-min\obj\Debug\net8.0\ref\program005-max-min.dll
