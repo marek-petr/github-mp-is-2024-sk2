@@ -6,7 +6,7 @@ class Program {
         string again = "a";
         while (again == "a") {
             Console.WriteLine("#########################################");
-            Console.WriteLine("#### Generator pseudonahodnych cisel ####");
+            Console.WriteLine("#### Maximum a minimum ####");
             Console.WriteLine("#########################################");   
             Console.WriteLine("############### Marek Petr ##############");
             Console.WriteLine("#########################################\n\n");   

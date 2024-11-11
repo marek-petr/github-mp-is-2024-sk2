@@ -1,0 +1,15 @@
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\bin\Debug\net8.0\program006-analyza textu.exe
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\bin\Debug\net8.0\program006-analyza textu.deps.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\bin\Debug\net8.0\program006-analyza textu.runtimeconfig.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\bin\Debug\net8.0\program006-analyza textu.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\bin\Debug\net8.0\program006-analyza textu.pdb
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\obj\Debug\net8.0\program006-analyza textu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\obj\Debug\net8.0\program006-analyza textu.AssemblyInfoInputs.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\obj\Debug\net8.0\program006-analyza textu.AssemblyInfo.cs
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\obj\Debug\net8.0\program006-analyza textu.csproj.CoreCompileInputs.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\obj\Debug\net8.0\program006-analyza textu.sourcelink.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\obj\Debug\net8.0\program006-analyza textu.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\obj\Debug\net8.0\refint\program006-analyza textu.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\obj\Debug\net8.0\program006-analyza textu.pdb
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\obj\Debug\net8.0\program006-analyza textu.genruntimeconfig.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program006-analyza textu\obj\Debug\net8.0\ref\program006-analyza textu.dll
