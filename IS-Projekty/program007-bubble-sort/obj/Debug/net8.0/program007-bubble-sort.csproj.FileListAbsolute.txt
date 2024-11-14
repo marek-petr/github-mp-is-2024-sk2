@@ -1,0 +1,15 @@
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.exe
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.deps.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.runtimeconfig.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.pdb
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.AssemblyInfoInputs.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.AssemblyInfo.cs
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.sourcelink.json
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\refint\program007-bubble-sort.dll
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.pdb
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.genruntimeconfig.cache
+C:\Users\Mara\Documents\Visual Studio Code projects\IS projects\github-mp-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\ref\program007-bubble-sort.dll

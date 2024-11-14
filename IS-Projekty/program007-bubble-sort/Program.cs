@@ -1,20 +1,17 @@
-﻿using System;
-using System.ComponentModel;
+﻿using System.Security.Authentication.ExtendedProtection;
+using System.Diagnostics;
 
-class Program {
-
-    static void Main() {
-        // chci aby se program opakoval po stisku klavesi "a"
-        string again = "a";
-        while (again == "a") {
+string again = "a";
+        while(again == "a") {
             //Console.Clear();
-            Console.WriteLine("#########################################");
-            Console.WriteLine("#### Generator pseudonahodnych cisel ####");
-            Console.WriteLine("#########################################");   
-            Console.WriteLine("############### Marek Petr ##############");
-            Console.WriteLine("#########################################\n\n");   
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("******* Generátor náhodných čísel *******");
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("**************** Marek Petr *************");
+            Console.WriteLine("*************************************\n\n");
             Console.WriteLine();
 
+            
             Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
             int n;
             while(!int.TryParse(Console.ReadLine(), out n)) {
@@ -40,40 +37,51 @@ class Program {
 
             // deklarace pole
             int[] myArray = new int[n];
-            int positiveCount = 0; // počítadlo kladných čísel
-            int negativeCount = 0; // počítadlo záporných čísel
 
-            //priprava pro generovani nahodnyho cisla
+            // příprava pro generování náhodných čísel
             Random randomNumber = new Random();
-            int nuly = 0;
-            int suda = 0;
-            int licha = 0;    
 
-            Console.WriteLine("Nahodna cisla: ");
-            
-            for (int i = 0; i < myArray.Length; i++)
-            {
+            Console.WriteLine("Náhodná čísla: ");
+
+            for(int i=0; i<n; i++) {
                 myArray[i] = randomNumber.Next(dm, hm+1);
-                Console.Write(" {0} ", myArray[i]);
-                if (myArray[i] > 0)
-                    positiveCount++;
-                else if (myArray[i] < 0)
-                    negativeCount++;
-                else 
-                    nuly++;
-
-                if (myArray[i] % 2 == 0)
-                    suda++;
-                else licha++;
+                Console.Write("{0}; ", myArray[i]);
             }
-            // Výpis výsledků
-            Console.WriteLine("\nPočet kladných čísel: {0}", positiveCount);
-            Console.WriteLine("Počet záporných čísel: {0}", negativeCount);
-            Console.WriteLine("Počet nul: {0}", nuly);
+            
+            Stopwatch myStopwatch = new Stopwatch(); 
+            myStopwatch.Start();
 
+            int numberCompare = 0;
+            int numberChange = 0;
+
+            for(int i=0; i<n-1; i++) {
+                for(int j=0 ; j<n-i-1; j++) {
+                    numberCompare++;
+                    if(myArray[j] < myArray[j+1]) {
+                        int tmp = myArray[j];
+                        myArray[j] = myArray[j+1];
+                        myArray[j+1] = tmp;
+                        numberChange++;
+                    }
+                }
+            }
+            myStopwatch.Stop();
+
+
+            Console.WriteLine("\n\nSeřazené pole: ");
+            for(int i=0; i<n; i++) {
+                Console.Write("{0}; ", myArray[i]);
+            }
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.WriteLine("\n\nČas potřebný na seřazení pole algoritmem Bubble Sort: {0}", myStopwatch.Elapsed);
+            
+            Console.WriteLine("\n\nPočet porovnání: {0}", numberCompare);
+            Console.WriteLine("Počet výměn: {0}", numberChange);
+            
+            Console.ResetColor();
             // Opakování programu
-            Console.WriteLine("Pro opakovani programu stisknete klavesu a");
+            Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
         }
-    }
-}
