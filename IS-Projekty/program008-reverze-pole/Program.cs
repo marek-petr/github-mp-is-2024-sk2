@@ -4,7 +4,7 @@ string again = "a";
         while(again == "a") {
             //Console.Clear();
             Console.WriteLine("***********************************************");
-            Console.WriteLine("******* Reverze pole *******");
+            Console.WriteLine("**************** Reverze pole *****************");
             Console.WriteLine("***********************************************");
             Console.WriteLine("**************** Marek Petr ******************");
             Console.WriteLine("***********************************************\n\n");
